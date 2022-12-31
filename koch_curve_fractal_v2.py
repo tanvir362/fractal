@@ -47,6 +47,7 @@ def fractal(n):
 #tl.shape("turtle")
 signature()
 tl.home()
+tl.speed(0)
 tl.left(90)
 tl.backward(348)
 tl.setheading(0.0)
